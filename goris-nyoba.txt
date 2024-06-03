@@ -2,4 +2,4 @@ saya ingin mencoba mempelajari github
 -membuat file baru dengan format txt
 -nama filenya goris-nyoba.txt
 -mengedit file dengan menambahkan baris kalimat baru
--menambah kalimat KEDUA
+-menambah kalimat KETIGA, yang kedua dihapus
