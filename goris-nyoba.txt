@@ -1,0 +1,3 @@
+saya ingin mencoba mempelajari github
+-membuat file baru dengan format txt
+-nama filenya goris-nyoba.txt
